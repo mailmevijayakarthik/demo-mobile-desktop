@@ -14,7 +14,7 @@
         <maven.compiler.version>3.7.0</maven.compiler.version>
         <cucumber.version>4.2.0</cucumber.version>
         <selenium.version>3.4.0</selenium.version>
-        <testNG.version>6.14.3</testNG.version>
+        <testNG.version>7.5.1</testNG.version>
         <appium.javaclient>7.2.0</appium.javaclient>
         <defaultSuitePath>src/test/resources/config/</defaultSuitePath>
     </properties>
